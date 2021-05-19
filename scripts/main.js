@@ -8,7 +8,7 @@ AOS.init({
 /*Scroll to top when arrow up clicked BEGIN*/
   $(window).scroll(function() {
     var height = $(window).scrollTop();
-    if (height > 100) {
+    if (height > 400) {
         $('#back2Top').fadeIn();
     } else {
         $('#back2Top').fadeOut();
