@@ -81,7 +81,7 @@ html {
   border-radius: 10px; }
 
 .cover-bg {
-  
+  background-color: #686868;
   background-image: url("../images/cover.jpg");
   background-repeat:no-repeat;
   background-size: cover;
