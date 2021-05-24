@@ -81,7 +81,7 @@ html {
   border-radius: 10px; }
 
 .cover-bg {
-  background-color: #4A89DC;
+  
   background-image: url("../images/cover.jpg");
   background-repeat:no-repeat;
   background-size: cover;
